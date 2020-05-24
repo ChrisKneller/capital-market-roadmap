@@ -183,7 +183,36 @@ The investment bank is out of the picture at this point.
 
 ## Roles of Financial Intermediaries
 
-*24/5/2020*
+### Capacity
+
+- Principal - trading for the firm's own account
+    - Dealer / market maker
+    - Taking opposite side of a trade with a client
+    - Firm capital at risk
+    - Bid/ask spread
+    - Net price to client likely includes a mark-up or mark-down
+    - Mark-ups and mark-downs often need not be disclosed
+- Agent - executing trades for client accounts
+    - Broker
+    - Executing a trade on a client's behalf
+    - No capital at risk
+    - Commission - compensation for time, effort and expense of executing trade - typically must be disclosed
+    
+### Principal trading
+- Market maker / dealer
+    - Provide liquidity
+        - Bid/ask spread
+    - Positioning (inventory)
+        - Long or short?
+        - Hedge?  
+- Proprietary trading
+    - Risking firm capital
+        - Long/short
+        - Leverage
+        - Complex strategies
+        - Arbitrage
+    
+
 
 ## Comparing Securities to Derivatives
 
