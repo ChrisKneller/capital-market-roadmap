@@ -37,7 +37,12 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
 
 ## Major Market Segments and Types of Instruments
 
-*24/5/2020*
+| |Securities Markets|Deivatives Markets|Currency Markets|Insurance Markets|
+|-|-|-|-|-|
+|**Primary sectors**|Debt securities, equity securities|Futures/forwards, options, swaps|National currencies, SDRs, Gold|Personal (life, health, property & casualty), commercial (key person, business disruption, property & casualty)|
+||||||
+|**Economic function**|Channel wealth and real investment|Share risk more optimally|Finance cross border trade and investment|Share risk more optimally|
+
 
 ### Securities Markets
 
