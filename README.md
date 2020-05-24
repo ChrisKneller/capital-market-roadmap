@@ -27,7 +27,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
 
 ## Major Market Segments and Types of Instruments
 
-| |Securities Markets|Deivatives Markets|Currency Markets|Insurance Markets|
+| |Securities Markets|Derivatives Markets|Currency Markets|Insurance Markets|
 |-|-|-|-|-|
 |**Primary sectors**|Debt securities, equity securities|Futures/forwards, options, swaps|National currencies, SDRs, Gold|Personal (life, health, property & casualty), commercial (key person, business disruption, property & casualty)|
 ||||||
@@ -39,8 +39,10 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
 |:--|:--|
 |Allocate savings to investment|New issues of securities|
 |Allow flexibility in timing consumption|Liqudity trades|
-|Reduce risk through diversification|Portfolio re-balancing, information trades|
+|Reduce risk through diversification<sup>1</sup>|Portfolio re-balancing, information trades|
 |Share risk optimially|Portfolio re-balancing, information trades|
+
+<sup>1</sup> One can invest a small amount into a liquid, diversified product, rather than investing a large amount into one physical, illiquid product (e.g. a house.)
 
 ## Securities Markets and Important Market Participants
 
