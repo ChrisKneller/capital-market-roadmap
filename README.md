@@ -7,7 +7,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - [Securities Markets and Important Market Participants](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#securities-markets-and-important-market-participants)
     - [Commercial Banking and Investment Banking](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#commercial-banking-and-investment-banking)
     - [Primary and Secondary Markets](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#primary-and-secondary-markets)
-    - Primary Market Offerings
+    - [Primary Market Offerings](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#primary-market-offerings)
     - Roles of Financial Intermediaries
     - Comparing Securities to Derivatives
     - Introduction to Fixed Income Securities
