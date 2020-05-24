@@ -2,7 +2,7 @@
 Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.com/course/capital-market-immersion/) course and taking notes.
 
 - Roadmap
-    - Major Market Segments and Types of Instruments
+    - [Major Market Segments and Types of Instruments](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#major-market-segments-and-types-of-instruments)
     - Economic Functions of Capital Markets
     - Securities Markets and Important Market Participants
     - Commercial Banking and Investment Banking
