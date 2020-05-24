@@ -211,12 +211,43 @@ The investment bank is out of the picture at this point.
         - Leverage
         - Complex strategies
         - Arbitrage
-    
-
 
 ## Comparing Securities to Derivatives
 
-*24/5/2020*
+### Securities
+
+- Debt securities (bonds / fixed income)
+    - Creditor interest
+    - Legal claim (contract)
+        - Terms of repayment
+        - Interest on debt
+    - Senior claim versus equity on liquidation/reorganisation
+- Equity securities (common stocks
+    - Ownership interest
+    - Right of ownership
+        - Share in profits (dividends from retained earnings)
+    - Input into election of board of directors
+    - Corporate actions
+    
+### Securities vs Derivatives
+
+#### Securities
+
+- Exist primarily to channel wealth into real investment
+- A positive or negative sum game (think about how the overall stock market moves up or down)
+- No. long positions > no. short positions
+
+|Investors|Stocks/bonds<br>&larr;<br>&rarr;<br>Money|Corp|Expenses<br>&rarr;<br>&larr;<br>Revenues|
+|-|-|-|-|
+
+#### Derivatives
+
+- Exist primarily to allow us to share risks more optimally
+- A zero sum game
+- No. long positions = no. short positions
+
+|Long|&larr;&rarr;|Short|
+|-|-|-|
 
 ## Introduction to Fixed Income Securities
 
