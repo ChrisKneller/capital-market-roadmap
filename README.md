@@ -3,16 +3,6 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
 
 - Roadmap
     - Major Market Segments and Types of Instruments
-        - Securities Markets
-            - Debt securities
-            - Equity
-            - Hybrids
-        - Derivatives Markets
-            - Futures/forwards
-            - Options
-            - Swaps
-        - Foreign Currency Markets
-        - Insurance Markets
     - Economic Functions of Capital Markets
     - Securities Markets and Important Market Participants
     - Commercial Banking and Investment Banking
@@ -42,47 +32,6 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
 |**Primary sectors**|Debt securities, equity securities|Futures/forwards, options, swaps|National currencies, SDRs, Gold|Personal (life, health, property & casualty), commercial (key person, business disruption, property & casualty)|
 ||||||
 |**Economic function**|Channel wealth and real investment|Share risk more optimally|Finance cross border trade and investment|Share risk more optimally|
-
-
-### Securities Markets
-
-*24/5/2020*
-
-#### Debt securities
-
-*24/5/2020*
-
-#### Equity
-
-*24/5/2020*
-
-#### Hybrids
-
-*24/5/2020*
-
-### Derivatives Markets
-
-*24/5/2020*
-
-#### Futures/forwards
-
-*24/5/2020*
-
-#### Options
-
-*24/5/2020*
-
-#### Swaps
-
-*24/5/2020*
-
-### Foreign Currency Markets
-
-*24/5/2020*
-
-### Insurance Markets
-
-*24/5/2020*
 
 ## Economic Functions of Capital Markets
 
