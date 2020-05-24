@@ -136,13 +136,19 @@ The investment bank is out of the picture at this point.
 - Asset management
 - Prime brokerage for e.g. hedge funds (transaction execution, financing leveraged trades, managing collateral on positions)
 
-
-
-
-
 ## Primary and Secondary Markets
 
-*24/5/2020*
+- Primary markets (<10% of transactions)
+    - Public offerings
+    - Private placements
+    
+- Secondary markets (>90% of transactions)
+    - Exchange (listed) trading
+    - Over-the-Counter (OTC) market
+    
+- Secondary markets are incredibly important for providing liquidity and exit opportunities
+- In the absence of secondary markets, how many people would be willing to invest in primary markets, given the incredibly long time frames of returns on investment
+- Some argue that the greater the % of secondary market transactions, the more robust the market
 
 ## Primary Market Offerings
 
