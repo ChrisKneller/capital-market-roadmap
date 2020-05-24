@@ -11,14 +11,14 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - [Roles of Financial Intermediaries](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#roles-of-financial-intermediaries)
     - [Comparing Securities to Derivatives](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#comparing-securities-to-derivatives)
     - [Introduction to Fixed Income Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#introduction-to-fixed-income-securities)
-    - Fixed Income Securities: Sources of Return and Types of Risk
+    - [Fixed Income Securities: Sources of Return and Types of Risk](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#fixed-income-securities-sources-of-return-and-types-of-risk)
     - Government and Government Agency Securities
     - Corporate Securities and Structured Securities
     - Bond Pricing and Valuation
     - Yield Curves, Monetary Policy and the Real Economy
     - Introduction to Equity Securities
     - Investment Characteristics and Valuation of Equity Securities
-    - Valuation of Equitieis Using Earnings Multiples (P/E Ratios)
+    - Valuation of Equities Using Earnings Multiples (P/E Ratios)
     - Currencty Markets and Factors Affecting Exchange Rates
     - Types of Derivative Contracts and Economic Exposures
     - The Real Meaning of "Derivatives" and Their Use in Managing Risk
@@ -323,7 +323,7 @@ The investment bank is out of the picture at this point.
 
 *24/5/2020*
 
-## Valuation of Equitieis Using Earnings Multiples (P/E Ratios)
+## Valuation of Equities Using Earnings Multiples (P/E Ratios)
 
 *24/5/2020*
 
