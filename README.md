@@ -44,6 +44,10 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
 
 <sup>1</sup> One can invest a small amount into a liquid, diversified product, rather than investing a large amount into one physical, illiquid product (e.g. a house.)
 
+A key point is that any time that a party engages in any type of capital market transaction, both the buyer and seller are altering the risk profile of their portfolio.
+
+> A capital market trade = an alteration of risk in a portfolio
+
 ## Securities Markets and Important Market Participants
 
 *24/5/2020*
