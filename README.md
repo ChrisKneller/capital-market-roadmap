@@ -70,6 +70,8 @@ A key point is that any time that a party engages in any type of capital market 
 - Hedge funds
 
 ### Issuers of securities other than businesses
+
+
 - Governments
    - National
    - State, provincial & local
@@ -83,7 +85,60 @@ A key point is that any time that a party engages in any type of capital market 
 
 ## Commercial Banking and Investment Banking
 
-*24/5/2020*
+### Commercial banking
+
+- Deposit taking
+    - Transaction (checking)
+    - Savings (time)
+    - Certificates (time)
+- Commercial lending
+    - General
+    - Inventory financing
+    - Trade finance
+    - Asset purchase
+
+Any firm that engages in deposit taking and making commercial loans has to register as a commercial bank (at least in the US).
+
+|||Assets|Liabilities|||
+|-|:-:|:-:|:-:|:-:|-|
+|Borrower|Loan (money)<br>&larr;<br>&rarr;<br>Interest & principal|Commercial loans<br>(business)|Deposits|Deposit (money)<br>&larr;<br>&rarr;<br>Interest & principal (on withdrawal)|Depositor|
+
+### Investment banking
+
+- Securities trading
+    - Debt
+    - Equity
+    - Derivatives
+- Securities underwriting
+- Advisory, structuting and execution of the above
+
+#### Issuance
+
+|Issuers||Investment bank||Investors|
+|:-:|:-:|:-:|:-:|:-:|
+|Govt/agency or corporation|Money<br>&larr;<br>&rarr;<br>Securities|Managing underwriter & <br>underwriting syndicate|Money<br>&larr;<br>&rarr;<br>Securities|Individuals & institutions|
+
+#### After issuance
+
+|Issuers||Investors||
+|:-:|:-:|:-:|-|
+|Govt/agency|Interest & principal<br>&rarr;|Bond holders|(creditors)|
+|||||
+|Corporation|Interest & principal<br>&rarr;|Bond holders|(creditors)|
+|Corporation|Dividends<br>&rarr;|Equity holders|(owners)|
+
+The investment bank is out of the picture at this point.
+
+### Other activities in which either may engage
+
+- M&A advisory
+- Wealth management
+- Asset management
+- Prime brokerage for e.g. hedge funds (transaction execution, financing leveraged trades, managing collateral on positions)
+
+
+
+
 
 ## Primary and Secondary Markets
 
