@@ -152,7 +152,34 @@ The investment bank is out of the picture at this point.
 
 ## Primary Market Offerings
 
-*24/5/2020*
+### Firm commitment underwriting
+
+- Reference to [this](https://github.com/ChrisKneller/capital-market-roadmap#issuance) diagram
+- An underwriter will promise an issuer a certain amount of investment, will seek to raise at least that amount from investors and will make up for any shortfall (i.e. they have a firm commitment to raise x)
+    
+### Yield auctions
+
+- The issuer (govt or large corporation) will set the issue terms
+    - Size (how much are they borrowing?)
+    - Maturity (3 months, 5 years, 30 years?)
+    - Structure (fixed or floating coupon, inflation linked?)
+- Competitive bidding - interested parties will bid the highest "price" (yield or interest rate) they are willing to pay by a deadline
+- The highest bids will get filled first etc. to a "stop out"
+- Orders can be filled at:
+    - Bid price (traditional yield auction)
+    - Average price (Dutch auction or single price auction)
+- The auction process itself determines the effective yield, since none was set initially
+- (there can also be non-competitive bids where an investor agrees to take the average price) 
+    
+### Fixed price / yield offerings
+
+- An underwriter will be part of an underwriting syndicate
+- Underwriters take orders from their clients
+- Orders are filled based on the relationship between the underwriter and the client
+- In Apple's 2013 offering of $17bn, they had over $50bn of bids submitted so clearly not all orders will be filled
+- The syndicate members have to decide how to allocate the bonds that they're acquiring as part of their participation - which clients get their orders filled?
+- If you have a good relationship i.e. a long relationship of being in good-standing
+- It is less certain who will then get their orders filled, compared to yield auctions (where it is essentially just a mathematical comparison)
 
 ## Roles of Financial Intermediaries
 
