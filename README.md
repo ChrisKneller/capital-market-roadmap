@@ -35,7 +35,12 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
 
 ## Economic Functions of Capital Markets
 
-*24/5/2020*
+|What the capital markets allow investors to do|Corresponding reasons for trading|
+|:--|:--|
+|Allocate savings to investment|New issues of securities|
+|Allow flexibility in timing consumption|Liqudity trades|
+|Reduce risk through diversification|Portfolio re-balancing, information trades|
+|Share risk optimially|Portfolio re-balancing, information trades|
 
 ## Securities Markets and Important Market Participants
 
