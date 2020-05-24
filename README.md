@@ -254,6 +254,7 @@ The investment bank is out of the picture at this point.
 ### Bonds
 
 - A bond is a loan packaged in a certain way to make the ownership easily transferrable
+- Bond prices and yields move inversely to each other
 - Repayment includes:
     - Interest
         - Payable over time (periodic coupon)
@@ -268,7 +269,7 @@ The investment bank is out of the picture at this point.
     - Failure to pay (delinquencies and defaults)
 - What interest rate(s) should be used
     - Pure time value of money (nominal risk free rate)
-        - Real risk free rate (yield to maturity)
+        - Real risk free rate (yield to maturity of a government security over the appropriate term)
         - Expected inflation
     - Credit spread (nature of the issuer e.g. higher discount rate to value cashflows where there is a greater degree of uncertainty)
     - Liquidity considerations (how easily can we find a buyer for the security we want to sell - if it's difficult, we need a higher interest rate)
@@ -276,7 +277,27 @@ The investment bank is out of the picture at this point.
 
 ## Fixed Income Securities: Sources of Return and Types of Risk
 
-*24/5/2020*
+### Bond fundamentals - risk
+
+- Default (credit) risk
+- Interest rate risk
+    - Market (price) risk
+    - Reinvestment risk
+- Purchasing power (inflation) risk
+- Liquidity risk
+
+#### Bond fundamentals - sources of return
+
+- Cash flows
+    - Coupon/interest
+    - Principal: bond maturities, calls and amortising structures
+- Reinvestment income
+    - Compound interest or interest on interest income
+    - Return cashflows reinvested during holding period
+- Price changes
+    - Changes in base rates (government/swap rate curve)
+    - Changes in issuer sector or credit spreads
+    - Embedded options
 
 ## Government and Government Agency Securities
 
