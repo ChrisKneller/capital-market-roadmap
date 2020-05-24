@@ -251,7 +251,28 @@ The investment bank is out of the picture at this point.
 
 ## Introduction to Fixed Income Securities
 
-*24/5/2020*
+### Bonds
+
+- A bond is a loan packaged in a certain way to make the ownership easily transferrable
+- Repayment includes:
+    - Interest
+        - Payable over time (periodic coupon)
+        - Payable at maturity (zero coupon bonds)
+    - Principal
+        - All at maturity (term bonds/loans)
+        - Over time (amortizing bonds/loans, serial or sinking fund bonds)
+- Bond valuation - valuing cashflows / complexities
+- Uncertainty regarding amount and timing
+    - Accelerated repayment (prepayments/calls)
+    - Floating coupons (where applicable) and unknown reinvestment rates
+    - Failure to pay (delinquencies and defaults)
+- What interest rate(s) should be used
+    - Pure time value of money (nominal risk free rate)
+        - Real risk free rate (yield to maturity)
+        - Expected inflation
+    - Credit spread (nature of the issuer e.g. higher discount rate to value cashflows where there is a greater degree of uncertainty)
+    - Liquidity considerations (how easily can we find a buyer for the security we want to sell - if it's difficult, we need a higher interest rate)
+    - Embedded options
 
 ## Fixed Income Securities: Sources of Return and Types of Risk
 
