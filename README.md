@@ -50,7 +50,36 @@ A key point is that any time that a party engages in any type of capital market 
 
 ## Securities Markets and Important Market Participants
 
-*24/5/2020*
+|||Securities Markets|||
+|-|-|:-:|-|-:|
+|Household sector| &larr; |(Insitutional investors &larr;) Equity & debt securities| &larr; |Business sector
+||||||
+|Wealth| &rarr; |(Institutional investors &rarr;) Money| &rarr; |Real investment
+
+### Institutional Investors
+- Pension funds (group retirement plans)
+- Insurance companies
+- Investment companies
+    - Mutual funds
+    - Unit trusts
+- Sovereign wealth funds
+- Endowments
+    - Universities
+    - Non-profits
+- Asset management companies
+- Hedge funds
+
+### Issuers of securities other than businesses
+- Governments
+   - National
+   - State, provincial & local
+- Government agencies
+
+### Financial intermediaries
+
+- Commercial banks
+- Investment banks
+- Broker-dealers
 
 ## Commercial Banking and Investment Banking
 
