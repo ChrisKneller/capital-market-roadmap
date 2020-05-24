@@ -3,7 +3,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
 
 - Roadmap
     - [Major Market Segments and Types of Instruments](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#major-market-segments-and-types-of-instruments)
-    - Economic Functions of Capital Markets
+    - [Economic Functions of Capital Markets](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#economic-functions-of-capital-markets)
     - Securities Markets and Important Market Participants
     - Commercial Banking and Investment Banking
     - Primary and Secondary Markets
