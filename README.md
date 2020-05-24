@@ -8,7 +8,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - [Commercial Banking and Investment Banking](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#commercial-banking-and-investment-banking)
     - [Primary and Secondary Markets](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#primary-and-secondary-markets)
     - [Primary Market Offerings](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#primary-market-offerings)
-    - Roles of Financial Intermediaries
+    - [Roles of Financial Intermediaries](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#roles-of-financial-intermediaries)
     - Comparing Securities to Derivatives
     - Introduction to Fixed Income Securities
     - Fixed Income Securities: Sources of Return and Types of Risk
