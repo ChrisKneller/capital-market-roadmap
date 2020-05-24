@@ -10,7 +10,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - [Primary Market Offerings](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#primary-market-offerings)
     - [Roles of Financial Intermediaries](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#roles-of-financial-intermediaries)
     - [Comparing Securities to Derivatives](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#comparing-securities-to-derivatives)
-    - Introduction to Fixed Income Securities
+    - [Introduction to Fixed Income Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#introduction-to-fixed-income-securities)
     - Fixed Income Securities: Sources of Return and Types of Risk
     - Government and Government Agency Securities
     - Corporate Securities and Structured Securities
