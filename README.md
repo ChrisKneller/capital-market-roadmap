@@ -322,9 +322,9 @@ The investment bank is out of the picture at this point.
     - Modest expected returns in a "normal" market
     - Safe haven/flight to safety
 
-### Government angencies
+### Government Agencies
 
-#### Sector/security characteristics
+#### Security/sector characteristics
 
 - Varies significantly between countries
 - Usually similar to goverment issues of simple security structures
@@ -344,7 +344,41 @@ The investment bank is out of the picture at this point.
 
 ## Corporate Securities and Structured Securities
 
-*25/5/2020*
+### Corporate fixed income securities
+
+#### Security/sector characteristics
+
+- Wide variety of maturities and structures
+- Provisions dealing with credit risk
+    - The provisions are written into a trust indenture
+    - Priority of claims
+    - Secured bonds (assets pledged as collateral)
+    - Other protective covenants (e.g. coupon bumped if credit rating downgraded, company prohibited from paying dividends unless they meet certain profitability criteria)
+- Embedded options - call, put and conversion
+
+#### Investment characteristics
+
+- Investment grade versus government securities (AA, AAA are similar to govt bonds)
+- Returns to taking credit risk
+- High yield (less than investment grade) bonds
+
+### Structured securitires
+
+- e.g. mortgage-backed securities, asset-backed securities, collateralized debt obligations
+
+#### Security/sector characteristics
+
+- Asset securitisation - pool of credit instruments or assets (e.g. mortgage-backed securities is a pool of mortgage loans)
+- Structured payouts (except pass-through securities) - payouts not done proportionally but returned based on a specified priority of tranches (tranche 1 gets ALL of their payout before tranche 2 gets any etc.)
+
+#### Investment characteristics
+
+- Risk
+    - Type/characteristics of underlying loans/assets
+    - Credit enhancements/guarantees
+    - Safety of senior tranches
+    - Liquidity issues
+- Expected returns
 
 ## Bond Pricing and Valuation
 
