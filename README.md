@@ -460,6 +460,39 @@ The yield curve doesn't precisely define a bond but rather the general relations
 
 ## Yield Curves, Monetary Policy and the Real Economy
 
+![](https://i.imgur.com/pclcJOg.png)
+
+- The biggest driver of the risk premium is, in general, credit risk
+- The credit spread narrows as the economy strengthens and vice versa
+- Economic forecasting models often use the spread between a high a low credit quality yield curve as an input factor
+
+### Transmission of monetary policy actions to the Real Economy
+
+- Targetting / setting interest rates
+- Control of the yield curve
+- Market reaction to Central Bank/Monetary authority actions
+
+![](https://i.imgur.com/X2W0Ige.png)
+
+- The dashed line on the above denotes the point between the short and the long end of the yield curve (not specific but as an idea)
+- Central banks have tried to influence the econony by adjusting the policy rate, but the policy rate is a short-term interest rate (e.g. 1-week repo rate)
+- Raise rates to try to reduce inflation by slowing down economic activity (based on the belief that inflation is driven by excess demand)
+    - By increasing borrowing costs we decrease the ability of businesses and individuals to borrow and this should naturally slow down economic activity
+- Cut rates to try to increase economic activity
+
+An inversion of a yield curve happens when short-term rates are rising much more rapidly than long-term rates
+
+- This happens when central banks are raising the short-term rates to slow down inflation
+- The difficulty lies in the balance between slowing down the economy enough so it is only below its potential growth, rather than causing a recession
+
+### Today's policies are slightly different
+
+- Central banks nowadays are engaging in QE
+- They are buying not just short-dated assets to influence short-term interest rates, but assets across the board in terms of maturities
+- Trillions of $ are being created out of thin air and pumped into the economy
+- They are suppressing interest rates (by driving up the price of the securities they're purchasing) to spur economic activity
+    - However they're influencing the market signals so much that it is becoming hard for market participants to correctly discern what signals the market is giving off and adjust their actions accordingly
+
 ## Introduction to Equity Securities
 
 *25/5/2020*
