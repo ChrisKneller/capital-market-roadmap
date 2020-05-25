@@ -439,9 +439,25 @@ The key difference between calculating price vs calculating fair value of a bond
 
 <img src="https://render.githubusercontent.com/render/math?math=Est.%20FV%20%3D%20%5Cfrac%7BC_%7B1%7D%7D%7B(1%2Bi_%7B1%7D)%5E%7B1%7D%7D%20%2B%20%5Cfrac%7BC_%7B2%7D%7D%7B(1%2Bi_%7B2%7D)%5E%7B2%7D%7D%20%2B%20...%20%2B%20%5Cfrac%7BC_%7Bn%7D%7D%7B(1%2Bi_%7Bn%7D)%5E%7Bn%7D%7D%20%2B%20%5Cfrac%7BF%7D%7B(1%2Bi_%7Bn%7D)%5E%7Bn%7D%7D">
 
-## Yield Curves, Monetary Policy and the Real Economy
+## Yield Curves, Monetary Policy and the Business Cycle
 
-*25/5/2020*
+- Yield curves only work with bonds of a similar nature - bonds that are homogeneous *except* with respect to time to maturity
+
+<img src="https://www.investopedia.com/thmb/KPodfzvoV4DOOf1GwGl0r-ZX3mQ=/3274x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YieldCurve3-b41980c37e9d475f9a0c6a68b0e92688.png" height="300">
+
+The yield curve doesn't precisely define a bond but rather the general relationship between time to maturity and yield to maturity.
+
+### Risk premium
+
+<img src="http://www.unistudyguides.com/images/f/fc/FINS161296.jpg" height="300">
+
+### Inversions of the yield curve
+
+- With a normal yield curve, bonds with longer maturities generally have higher yields (i.e. the top left edge of a circle)
+- Inverted yield curves represent bonds with longer maturities having lower yields (i.e. the top right edge of a circle)
+- Every recession in US history has been preceeded by an inversion of the bond yield curve
+
+## Yield Curves, Monetary Policy and the Real Economy
 
 ## Introduction to Equity Securities
 
