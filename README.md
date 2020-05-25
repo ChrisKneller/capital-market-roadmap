@@ -301,7 +301,46 @@ The investment bank is out of the picture at this point.
 
 ## Government and Government Agency Securities
 
-*24/5/2020*
+### Government
+
+#### Security/sector characteristics
+
+- Usually largest domestic issuer
+- Usually the largest and most liquid sector of the domestic market
+- Usually simple security structures
+    - Short to long term (usually fixed) securities
+    - Short term discount securities
+- Few/no embedded options (usually not callable)
+    
+  #### Investment characteristics
+  
+- Risk
+    - "Risk-free" securities (this means default-risk)
+    - A government can raise revenues easier than a corporate entity through taxation which is legally enforced
+    - Governments with their own central bank can "print money" (though this gives rise to inflation risk)
+- Expected returns
+    - Modest expected returns in a "normal" market
+    - Safe haven/flight to safety
+
+### Government angencies
+
+#### Sector/security characteristics
+
+- Varies significantly between countries
+- Usually similar to goverment issues of simple security structures
+    - Short to long term coupon (usually fixed) coupons
+    - Short term discount securities
+- Greater likelihood of embedded options (usually not callable)
+- Contract features to ameliorate risk concerns
+
+#### Investment characteristics
+
+- Risk
+    - Credit risk issues
+        - Source of revenues
+        - Government guarantees (explicit or implicit)
+    - Other risk considerations
+- Expected returns - varies according to risk exposures
 
 ## Corporate Securities and Structured Securities
 
