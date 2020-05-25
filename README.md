@@ -17,7 +17,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - [Bond Pricing and Valuation](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#bond-pricing-and-valuation)
     - [Yield Curves, Monetary Policy and the Business Cycle](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#yield-curves-monetary-policy-and-the-business-cycle)
     - [Yield Curves, Monetary Policy and the Real Economy](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#yield-curves-monetary-policy-and-the-real-economy)
-    - Introduction to Equity Securities
+    - [Introduction to Equity Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#introduction-to-equity-securities)
     - Investment Characteristics and Valuation of Equity Securities
     - Valuation of Equities Using Earnings Multiples (P/E Ratios)
     - Currency Markets and Factors Affecting Exchange Rates
@@ -495,10 +495,6 @@ An inversion of a yield curve happens when short-term rates are rising much more
 
 ## Introduction to Equity Securities
 
-*25/5/2020*
-
-## Investment Characteristics and Valuation of Equity Securities
-
 - Ownership interest
 - Companies
 - Authorised, issued and outstanding shares
@@ -525,18 +521,22 @@ An inversion of a yield curve happens when short-term rates are rising much more
     - Small cap (higher growth potential and returns but higher volatility)
     - (Micro caps)
 
+## Investment Characteristics and Valuation of Equity Securities
+
+*26/5/2020*
+
 ## Valuation of Equities Using Earnings Multiples (P/E Ratios)
 
-*25/5/2020*
+*26/5/2020*
 
 ## Currency Markets and Factors Affecting Exchange Rates
 
-*25/5/2020*
+*26/5/2020*
 
 ## Types of Derivative Contracts and Economic Exposures
 
-*25/5/2020*
+*26/5/2020*
 
 ## The Real Meaning of "Derivatives" and Their Use in Managing Risk
 
-*25/5/2020*
+*26/5/2020*
