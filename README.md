@@ -13,8 +13,8 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - [Introduction to Fixed Income Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#introduction-to-fixed-income-securities)
     - [Fixed Income Securities: Sources of Return and Types of Risk](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#fixed-income-securities-sources-of-return-and-types-of-risk)
     - [Government and Government Agency Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#government-and-government-agency-securities)
-    - [Corporate Securities and Structured Securities](https://github.com/ChrisKneller/capital-market-roadmap#corporate-securities-and-structured-securities)
-    - Bond Pricing and Valuation
+    - [Corporate Securities and Structured Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#corporate-securities-and-structured-securities)
+    - [Bond Pricing and Valuation](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#bond-pricing-and-valuation)
     - Yield Curves, Monetary Policy and the Real Economy
     - Introduction to Equity Securities
     - Investment Characteristics and Valuation of Equity Securities
