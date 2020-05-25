@@ -20,7 +20,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - Introduction to Equity Securities
     - Investment Characteristics and Valuation of Equity Securities
     - Valuation of Equities Using Earnings Multiples (P/E Ratios)
-    - Currencty Markets and Factors Affecting Exchange Rates
+    - Currency Markets and Factors Affecting Exchange Rates
     - Types of Derivative Contracts and Economic Exposures
     - The Real Meaning of "Derivatives" and Their Use in Managing Risk
     
@@ -499,13 +499,37 @@ An inversion of a yield curve happens when short-term rates are rising much more
 
 ## Investment Characteristics and Valuation of Equity Securities
 
-*25/5/2020*
+- Ownership interest
+- Companies
+- Authorised, issued and outstanding shares
+- Treasury shares = shares that the company has bought back
+- Distributions
+    - Dividends
+    - Stock splits
+    - Stock buy-backs
+
+### Market sectors
+
+- Geographic sectors
+    - Domestic
+    - International (developed)
+    - Emerging markets
+- Industry sectors
+    - Financials
+    - Manufacturing/industrial
+    - Consumer
+    - Utilities
+- Market capitalisation
+    - Large cap (safer investments)
+    - Mid cap
+    - Small cap (higher growth potential and returns but higher volatility)
+    - (Micro caps)
 
 ## Valuation of Equities Using Earnings Multiples (P/E Ratios)
 
 *25/5/2020*
 
-## Currencty Markets and Factors Affecting Exchange Rates
+## Currency Markets and Factors Affecting Exchange Rates
 
 *25/5/2020*
 
