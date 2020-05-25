@@ -382,7 +382,62 @@ The investment bank is out of the picture at this point.
 
 ## Bond Pricing and Valuation
 
-*25/5/2020*
+- Pricing and valuation are two different things
+    - Pricing - calculating the price implied by the current yield at which the bond is trading
+    - Valuation - using analytic techniques to estimate what you think the bond is actually worth
+
+### Pricing formula
+
+- **Face value (F)** or principal value or par value
+- **Yield (i)** on a periodic rate basis
+- **Exponent** = amount of time until the receipt of the cashflow in compounding periods
+- **Period Coupon (C)** = Annual coupon divided by number of compounding periods per year
+- **Price or Present Value (PV)**
+
+<img src="https://render.githubusercontent.com/render/math?math=PV%20%3D%20%5Cfrac%7BC_%7B1%7D%7D%7B(1%2Bi)%5E%7B1%7D%7D%20%2B%20%5Cfrac%7BC_%7B2%7D%7D%7B(1%2Bi)%5E%7B2%7D%7D%20%2B%20...%20%2B%20%5Cfrac%7BC_%7Bn%7D%7D%7B(1%2Bi)%5E%7Bn%7D%7D%20%2B%20%5Cfrac%7BF%7D%7B(1%2Bi)%5E%7Bn%7D%7D">
+
+### Pricing a level coupon bond
+
+- Bond details
+    - $1000 par value
+    - 7% coupon
+    - 5 years to maturity
+    - 10% yield to maturity
+    - Paid semi-annually
+- Where they fit in the calculation
+    - F = $1000 
+    - C = $35 = $1000 * 7% * 0.5 (0.5 refers to semi-annual payment)
+    - i = 5% = 10% (YieldTM) * 0.5 (semi-annual)
+    - n = 10 = 5 (YearsTM) * 2 (semi-annual)
+    
+This is then just calculated as a discounted cashflow to come to the final bond price.
+
+|End of period|Cashflow|PV factor|Discounted cashflow|
+|-|-:|-:|-:|
+|1|$35|0.9524|$33.33|
+|2|$35|0.9070|$31.75|
+|...|...|...|...|
+|10|$35|0.6139|$21.49|
+|10|$1,000|0.6139|$613.90|
+||||**$884.17**|
+
+### Bond prices and yields
+
+- Yields, interest rates and rates of return
+    - Interpreting interest rates
+    - The price of money or the price of credit
+- Fixed income pricing/yield conventions
+    - Price = PV of future cashflows discounted by YTM
+    - YTM = single discount rate equating price to PV of future cash flows
+- Yield to maturity reconsidered - yield as price (YTM is a way of expressing the current value of the security)
+
+The key difference between calculating price vs calculating fair value of a bond is that:
+- Price uses a constant discount trate
+- Fair value varies the discount factor to mirror the fact that risks change over time
+
+### Valuation formula
+
+<img src="https://render.githubusercontent.com/render/math?math=Est.%20FV%20%3D%20%5Cfrac%7BC_%7B1%7D%7D%7B(1%2Bi_%7B1%7D)%5E%7B1%7D%7D%20%2B%20%5Cfrac%7BC_%7B2%7D%7D%7B(1%2Bi_%7B2%7D)%5E%7B2%7D%7D%20%2B%20...%20%2B%20%5Cfrac%7BC_%7Bn%7D%7D%7B(1%2Bi_%7Bn%7D)%5E%7Bn%7D%7D%20%2B%20%5Cfrac%7BF%7D%7B(1%2Bi_%7Bn%7D)%5E%7Bn%7D%7D">
 
 ## Yield Curves, Monetary Policy and the Real Economy
 
