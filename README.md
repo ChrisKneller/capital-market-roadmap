@@ -12,7 +12,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - [Comparing Securities to Derivatives](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#comparing-securities-to-derivatives)
     - [Introduction to Fixed Income Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#introduction-to-fixed-income-securities)
     - [Fixed Income Securities: Sources of Return and Types of Risk](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#fixed-income-securities-sources-of-return-and-types-of-risk)
-    - Government and Government Agency Securities
+    - [Government and Government Agency Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#government-and-government-agency-securities)
     - Corporate Securities and Structured Securities
     - Bond Pricing and Valuation
     - Yield Curves, Monetary Policy and the Real Economy
@@ -312,7 +312,7 @@ The investment bank is out of the picture at this point.
     - Short term discount securities
 - Few/no embedded options (usually not callable)
     
-  #### Investment characteristics
+#### Investment characteristics
   
 - Risk
     - "Risk-free" securities (this means default-risk)
@@ -344,36 +344,36 @@ The investment bank is out of the picture at this point.
 
 ## Corporate Securities and Structured Securities
 
-*24/5/2020*
+*25/5/2020*
 
 ## Bond Pricing and Valuation
 
-*24/5/2020*
+*25/5/2020*
 
 ## Yield Curves, Monetary Policy and the Real Economy
 
-*24/5/2020*
+*25/5/2020*
 
 ## Introduction to Equity Securities
 
-*24/5/2020*
+*25/5/2020*
 
 ## Investment Characteristics and Valuation of Equity Securities
 
-*24/5/2020*
+*25/5/2020*
 
 ## Valuation of Equities Using Earnings Multiples (P/E Ratios)
 
-*24/5/2020*
+*25/5/2020*
 
 ## Currencty Markets and Factors Affecting Exchange Rates
 
-*24/5/2020*
+*25/5/2020*
 
 ## Types of Derivative Contracts and Economic Exposures
 
-*24/5/2020*
+*25/5/2020*
 
 ## The Real Meaning of "Derivatives" and Their Use in Managing Risk
 
-*24/5/2020*
+*25/5/2020*
