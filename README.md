@@ -19,7 +19,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - [Yield Curves, Monetary Policy and the Real Economy](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#yield-curves-monetary-policy-and-the-real-economy)
     - [Introduction to Equity Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#introduction-to-equity-securities)
     - [Investment Characteristics and Valuation of Equity Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#investment-characteristics-and-valuation-of-equity-securities)
-    - Valuation of Equities Using Earnings Multiples (P/E Ratios)
+    - [Valuation of Equities Using Earnings Multiples (P/E Ratios)](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#valuation-of-equities-using-earnings-multiples-pe-ratios)
     - Currency Markets and Factors Affecting Exchange Rates
     - Types of Derivative Contracts and Economic Exposures
     - The Real Meaning of "Derivatives" and Their Use in Managing Risk
