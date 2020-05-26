@@ -523,7 +523,19 @@ An inversion of a yield curve happens when short-term rates are rising much more
 
 ## Investment Characteristics and Valuation of Equity Securities
 
-*26/5/2020*
+- The bulk of the return is expected to come from stock price appreciation (vs regular cashflows from bonds)
+- Different investment styles - consider growth (high PE ratios) vs value stocks (low PE ratios)
+- Valuations:
+    - Valution multiples
+        - Most common
+        - Earnings multiple (PE ratio) = ![\frac{Price}{EPS}](https://render.githubusercontent.com/render/math?math=%5Cfrac%7BPrice%7D%7BEPS%7D)
+        - Cash flow multiple = ![\frac{Price}{Cash flow per share}](https://render.githubusercontent.com/render/math?math=%5Cfrac%7BPrice%7D%7BCash%20flow%20per%20share%7D)
+        - Sales multiple = ![\frac{Price}{Sales per share}](https://render.githubusercontent.com/render/math?math=%5Cfrac%7BPrice%7D%7BSales%20per%20share%7D)
+        - Price to book = ![\frac{Price}{Book value per share}](https://render.githubusercontent.com/render/math?math=%5Cfrac%7BPrice%7D%7BBook%20value%20per%20share%7D)
+    - Discounted cash flows
+        - Difficult over long periods
+        - Using constants for risks and cashflow growth after a certain point means it's not a very serious method and becomes analagous to using valuation multiples
+        - Hence why using valuation multiples is more common
 
 ## Valuation of Equities Using Earnings Multiples (P/E Ratios)
 
