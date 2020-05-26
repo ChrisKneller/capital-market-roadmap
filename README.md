@@ -565,6 +565,31 @@ An inversion of a yield curve happens when short-term rates are rising much more
     - Direct (American) quotes (foreign currency is the single unit e.g. 0.89 GBP to 1 EUR)
     - Dealer bids and asks
 
+### FX Overview
+
+- Exchange rate regimes
+    - Fixed vs a reference currency or basket (e.g. Hong Kong Dollar is fixed against USD)
+    - Floating - free, managed, dirty, crawling peg
+- Forward contracts
+- Forward exchange rates
+    - Forward premium/discount reflects interest rate differential
+    - Covered interest arbitrage
+- Forward rate quotes
+
+### Economics of FX determination
+
+|Appreciation|Economic Factors|Depreciation|
+|:-:|:-:|:-:|
+|Higher|Real interest rates|Lower|
+|Lower|Inflation|Higher|
+|Surplus|Balance of trade (BOT)<br>Balance of payments (BOP)<sup>#</sup>|Deficit|
+|Slowing or contraction|Economic growth<br>(income impact via BOT/BOP)|Increasing|
+|Increasing|Economic growth<br>(return on real investment)|Slowing or contraction|
+
+<sup>#</sup> i.e. whether on balance more wealth is flowing into or out of a country's currency
+
+Think about the above table in terms of whether each economic factor would cause money to flow into that currency e.g. if interest rates are high money will flow into that currency because people want the interest on their investment - therefore the currency will appreciate.  
+
 ## Types of Derivative Contracts and Economic Exposures
 
 *26/5/2020*
