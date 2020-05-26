@@ -539,11 +539,31 @@ An inversion of a yield curve happens when short-term rates are rising much more
 
 ## Valuation of Equities Using Earnings Multiples (P/E Ratios)
 
-*26/5/2020*
+- ![PE\;ratio = \frac{Current\;market\;price}{Earnings\;per\;share}](https://render.githubusercontent.com/render/math?math=PE%5C%3Bratio%20%3D%20%5Cfrac%7BCurrent%5C%3Bmarket%5C%3Bprice%7D%7BEarnings%5C%3Bper%5C%3Bshare%7D)
+- But which earnings do you use?
+- Trailing or historic PE ratio = ![\frac{Current\;market\;price}{Last\;4\;quarters\;actual\;EPS}](https://render.githubusercontent.com/render/math?math=%5Cfrac%7BCurrent%5C%3Bmarket%5C%3Bprice%7D%7BLast%5C%3B4%5C%3Bquarters%5C%3Bactual%5C%3BEPS%7D)
+    - Not very useful as price is forward-looking but earnings is backward-looking
+- Forward or forecast PE ratio = ![\frac{Current\;market\;price}{Next\;4\;quarters\;estimated\;EPS}](https://render.githubusercontent.com/render/math?math=%5Cfrac%7BCurrent%5C%3Bmarket%5C%3Bprice%7D%7BNext%5C%3B4%5C%3Bquarters%5C%3Bestimated%5C%3BEPS%7D)
+    - Both forward-looking so better, but difficult to measure
+
+### Risk
+
+![Target\;price = EPS \times PE](https://render.githubusercontent.com/render/math?math=Target%5C%3Bprice%20%3D%20EPS%20%5Ctimes%20PE)
+
+- Manipulating the PE ratio gives the above formula
+- What this means is that the risk and expectations of growth are built into the PE ratio
+- This is how analysts come up with a target price
 
 ## Currency Markets and Factors Affecting Exchange Rates
 
-*26/5/2020*
+- Currency markets are the largest financial markets in the world by far
+- OTC market (there is not a specific exchange with rules or regulations)
+- London is the largest centre for trading currencies in the world
+- Dealer markets
+    - Spot market quotations
+    - Indirect (European) quotes (domestic currency is the single unit e.g. 1 GBP to 1.12 EUR)
+    - Direct (American) quotes (foreign currency is the single unit e.g. 0.89 GBP to 1 EUR)
+    - Dealer bids and asks
 
 ## Types of Derivative Contracts and Economic Exposures
 
