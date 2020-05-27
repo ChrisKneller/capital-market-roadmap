@@ -624,4 +624,23 @@ Think about the above table in terms of whether each economic factor would cause
 
 ## The Real Meaning of "Derivatives" and Their Use in Managing Risk
 
-*26/5/2020*
+- Value is derived from some other asset/commodity price? No!
+- The derivative market often leads markets for underlying asset (price discovery)
+- Contracts must be fairly valued relative to the underlying
+    - ![F = S(1+r)^{t}](https://render.githubusercontent.com/render/math?math=F%20%3D%20S(1%2Br)%5E%7Bt%7D)
+        - F is the derivative price, S is the underlying price, r is the interest rate and t is time
+        - But notice that the above can be rearranged so we value the underlying based on the derivative price
+        - and remember that derivatives markets often move ahead of the underlying asset
+    - ![C = S + P - Ke^{-rt}](https://render.githubusercontent.com/render/math?math=C%20%3D%20S%20%2B%20P%20-%20Ke%5E%7B-rt%7D)
+    
+### Risk management/hedging
+
+<img src="https://i.imgur.com/OGhVwBW.png" height="400">
+
+<img src="blob:https://imgur.com/a0be08d3-5e1f-4bd7-90bf-0224e7764860" height="400">
+- Transferring risk to the speculator
+
+### In a nutshell
+
+- Derivatives are great mechanisms for altering the risk profile of a specific portfolio
+- This risk is not eliminated but transferred to another party
