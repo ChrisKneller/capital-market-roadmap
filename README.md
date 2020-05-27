@@ -22,7 +22,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - [Valuation of Equities Using Earnings Multiples (P/E Ratios)](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#valuation-of-equities-using-earnings-multiples-pe-ratios)
     - [Currency Markets and Factors Affecting Exchange Rates](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#currency-markets-and-factors-affecting-exchange-rates)
     - [Types of Derivative Contracts and Economic Exposures](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#types-of-derivative-contracts-and-economic-exposures)
-    - The Real Meaning of "Derivatives" and Their Use in Managing Risk
+    - [The Real Meaning of "Derivatives" and Their Use in Managing Risk](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#the-real-meaning-of-derivatives-and-their-use-in-managing-risk)
     
 # Roadmap
 
@@ -637,7 +637,7 @@ Think about the above table in terms of whether each economic factor would cause
 
 <img src="https://i.imgur.com/OGhVwBW.png" height="400">
 
-<img src="blob:https://imgur.com/a0be08d3-5e1f-4bd7-90bf-0224e7764860" height="400">
+<img src="https://i.imgur.com/5YCHLWC.png" height="400">
 - Transferring risk to the speculator
 
 ### In a nutshell
