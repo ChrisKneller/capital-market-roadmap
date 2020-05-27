@@ -592,7 +592,35 @@ Think about the above table in terms of whether each economic factor would cause
 
 ## Types of Derivative Contracts and Economic Exposures
 
-*26/5/2020*
+- Zero-sum game because every contract has 2 parties - one long and one short (not the same as shorting a security - shorting here is just selling a contract)
+- Short has the obligation to make the delivery, long has the obligation to take the delivery (in terms of physical exchanges)
+- Contract creation versus security issuance
+
+### Types of derivative contracts
+
+- Forward commitment contracts
+    - The vast majority of forward commitment contracts are at-market i.e. neither party has to pay a premium (other than margin/collateral)
+    - The advantage this is gaining a capital-efficient exposure to the market to modify risk profile
+    - Futures/forward contracts (a forward is an OTC future, which is exchange-traded)
+        - One party commits to making a delivery
+        - One party commits to taking a delivery
+    - Swaps
+        - One party commits to a floating rate
+        - One party commits to a fixed rate
+- Contingent Claims
+    - Options
+        - One party has the option; one party commits
+        - This is not equal like in forward commitment contracts and so premiums compensate for this
+        - Call: the right to buy
+        - Put: the right to sell
+    - Credit default swaps (CDS)
+
+### Position exposures
+
+<img src="https://i.imgur.com/lbN17RG.png" height="400">
+
+- Forward-commitment contracts have the same risk exposure as the underlying asset (just without the capital commitment, as described before)
+- The horizontal lime on calls and puts represents the the cost of the premium
 
 ## The Real Meaning of "Derivatives" and Their Use in Managing Risk
 
