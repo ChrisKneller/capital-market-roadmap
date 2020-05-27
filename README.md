@@ -21,7 +21,7 @@ Solidifying capital markets knowledge by following a [Udemy](https://www.udemy.c
     - [Investment Characteristics and Valuation of Equity Securities](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#investment-characteristics-and-valuation-of-equity-securities)
     - [Valuation of Equities Using Earnings Multiples (P/E Ratios)](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#valuation-of-equities-using-earnings-multiples-pe-ratios)
     - [Currency Markets and Factors Affecting Exchange Rates](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#currency-markets-and-factors-affecting-exchange-rates)
-    - Types of Derivative Contracts and Economic Exposures
+    - [Types of Derivative Contracts and Economic Exposures](https://github.com/ChrisKneller/capital-market-roadmap/blob/master/README.md#types-of-derivative-contracts-and-economic-exposures)
     - The Real Meaning of "Derivatives" and Their Use in Managing Risk
     
 # Roadmap
